@@ -1,0 +1,21 @@
+[
+
+    {
+        "question": "The order of the curve depends on the number of the points",
+        "qid": 1,
+        "option_a": "True",
+        "option_b": "False",
+        "option_c": "",
+        "option_d": "",
+        "correct_option": "b"
+    },
+    {
+        "question": "The curve passes through first and last point",
+        "qid": 2,
+        "option_a": "True",
+        "option_b": "False",
+        "option_c": "",
+        "option_d": "",
+        "correct_option": "b"
+    }
+]
